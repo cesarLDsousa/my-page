@@ -6,7 +6,7 @@
 }
 
 .name {
-    font-size: 14px;
+    font-size: 13px;
     font-family: 'Roboto Mono', sans-serif;
     color: #cccccc;
 }
@@ -28,15 +28,16 @@
     text-align: center;
 }
 
+.box img {
+    border: 2px solid rgb(235, 235, 235);
+    border-radius: 70px;  
+}
+
 .box {
     margin-bottom: 40px;
     width: 350px;
     height: 500px;
     /*background: #fff; */
-}
-
-.box img {
-    border-radius: 50px;
 }
 
 button:hover {
