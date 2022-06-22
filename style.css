@@ -68,3 +68,9 @@ button {
     border-radius: 4px;
     animation: bounce 1s;
 }
+
+footer {
+    font-size: 12px;
+    font-family: 'Roboto Mono', sans-serif;
+    color: #cccccc98;
+}   
